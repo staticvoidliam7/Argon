@@ -1,8 +1,8 @@
 using System;
-using System
+
 //Example transaction data
 
-public class Transaction
+/*public class Transaction
 {
    public int Id { get; set; }
    public string Sender { set; get; }
@@ -21,11 +21,11 @@ public class Block
 }    
 
 
-
+*/
 class main{
   static void Main(){
 
-//Create one transaction
+/*//Create one transaction
 var trx1 = new Transaction
 {
     Sender = "Johana",
@@ -42,6 +42,6 @@ var prevHash = System.Text.Encoding.UTF8.GetBytes("");
 
 //create new Block
 var block = new Block(0, String.Empty.ConvertToBytes(), lsTrx, "Admin");
-
+*/
   }
 }

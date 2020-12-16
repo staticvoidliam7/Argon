@@ -1,2 +1,2 @@
-mcs -out:Microcoin.exe main.cs
-mono Microcoin.exe
+mcs -out:argon.exe main.cs
+mono argon.exe
