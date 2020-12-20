@@ -1,2 +1,2 @@
-mcs -out:argon.exe main.cs
+mcs -out:argon.exe ./source/main.cs
 mono argon.exe
